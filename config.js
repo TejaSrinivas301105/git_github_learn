@@ -1,1 +1,1 @@
-console.log("update version2.0 config")
+console.log("update version3.0 config")
