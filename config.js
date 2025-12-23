@@ -1,2 +1,1 @@
-console.log("Hello welcome to git")
-console.log("version 3")
+console.log("update version2.0 config")

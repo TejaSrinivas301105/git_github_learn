@@ -1,2 +1,1 @@
-console.log("index.js")
-console.log("version 3")
+console.log("update version2.0 by index")
