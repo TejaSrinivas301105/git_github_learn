@@ -8,6 +8,7 @@ function safe(){
     }
 }
 
+
 const arr = (req,res)=>{
     try{
         const ans = await("/teacher/32");
@@ -18,5 +19,4 @@ const arr = (req,res)=>{
         console.error(e);
     }
 }
-
 
