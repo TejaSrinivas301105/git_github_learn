@@ -19,13 +19,4 @@ const arr = (req,res)=>{
     }
 }
 
-const see = (req,res)=>{
-    try{
-        const ans = await("/teacher/32");
-        const res = ans.json();
-        console.log(res);
-    }
-    catch(e){
-        console.error(e);
-    }
-}
+
